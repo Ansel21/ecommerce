@@ -10,8 +10,22 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-native": "0.73.2"
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/native-stack": "^6.9.17",
+    "@react-navigation/stack": "^6.3.20",
+    "mobx": "^6.12.0",
+    "mobx-persist": "^0.4.1",
+    "mobx-react": "^9.1.0",
+    "react": "^18.2.0",
+    "react-native": "^0.73.2",
+    "react-native-gesture-handler": "^2.14.0",
+    "react-native-safe-area-context": "^4.8.2",
+    "react-native-screens": "^3.29.0",
+    "react-native-splash-screen": "^3.3.0",
+    "react-native-web": "^0.19.10",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
